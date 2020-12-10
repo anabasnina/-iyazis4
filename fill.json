@@ -1,0 +1,28 @@
+{
+  "words": [
+    {
+      "src": "Ivan",
+      "dest": "Ivan",
+      "lang": {
+        "src": "en",
+        "dest": "de"
+      }
+    }
+  ],
+  "functions": [
+    {
+      "src": "My name is x1",
+      "dest": "Mein Name ist y1",
+      "pos": [
+        [
+          "x1",
+          "y1"
+        ]
+      ],
+      "lang": {
+        "src": "en",
+        "dest": "de"
+      }
+    }
+  ]
+}

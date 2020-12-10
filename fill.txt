@@ -1,0 +1,10 @@
+WORD
+Ivan
+Ivan
+en->de
+
+FUNC
+My name is x1
+Mein Name ist y1
+x1->y1
+en->de
